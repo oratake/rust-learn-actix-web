@@ -1318,6 +1318,7 @@ version = "0.1.0"
 dependencies = [
  "actix-rt 2.10.0",
  "actix-web",
+ "thiserror",
 ]
 
 [[package]]
